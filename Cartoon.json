@@ -742,4 +742,45 @@
         "Where to watch": "https://www.dailymotion.com/playlist/x7jfnh  or telegram"  
     },
 
+    
+  
+    {  
+        "id": 94,
+      "title": "Tom and Jerry",
+      "release_year": 1940,
+      "creator": "William Hanna and Joseph Barbera",
+      "description": "Classic slapstick comedy featuring a cat and mouse."
+    },
+    {
+        "id": 95,
+      "title": "SpongeBob SquarePants",
+      "release_year": 1999,
+      "creator": "Stephen Hillenburg",
+      "description": "Underwater adventures of SpongeBob and his friends in Bikini Bottom."
+    },
+    {
+        "id": 96,
+      "title": "The Simpsons",
+      "release_year": 1989,
+      "creator": "Matt Groening",
+      "description": "Long-running animated sitcom about the Simpson family."
+    },
+    {
+        "id": 97,
+      "title": "Adventure Time",
+      "release_year": 2010,
+      "creator": "Pendleton Ward",
+      "description": "Fantasy adventures of Finn and Jake in the Land of Ooo."
+    },
+    {
+        "id": 98,
+      "title": "Rick and Morty",
+      "release_year": 2013,
+      "creator": "Dan Harmon and Justin Roiland",
+      "description": "Sci-fi adventures of an eccentric scientist and his grandson."
+    },
+    
+
+
+
 ]
